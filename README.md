@@ -9,9 +9,8 @@ Efter denna vecka ska du:
 
 ## 📚 Material
 <img width="501" height="652" alt="image" src="https://assets.bytebytego.com/diagrams/0036-rest-vs-graphql.png" />
-<img width="678" height="728" alt="image" src="https://github.com/user-attachments/assets/3702ba6d-5661-4c4d-b71b-e6d5e870c1bf" />
+<img width="678" height="728" alt="image" src="https://github.com/user-attachments/assets/3702ba6d-5661-4c4d-b71b-e6d5e870c1bf" /><br/>
 [Bild från](https://blog.devops.dev/graphql-vs-rest-navigating-the-evolving-landscape-of-api-design-f543c2038dd1)
-
 
 ### E‑Learning
 * [Next.js 14: Foundations (Pluralsight)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents)
