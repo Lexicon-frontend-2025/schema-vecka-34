@@ -6,8 +6,9 @@
 ## 🎯 Mål för veckan
 Efter denna vecka ska du:
 1.  Förstå vad ett API är och skillnaderna mellan Rest och GraphQl
-2.  Kunna använda searchParams i next.js
-3.  Kunna implementera grundläggande felhantering i en next.js app
+2.  Använda Fetch API i next.js
+3.  Kunna använda searchParams i next.js
+4.  Kunna implementera grundläggande felhantering i en next.js app
 
 ## 📚 Material
 * [Futurama API](https://futuramaapi.com/)
@@ -22,13 +23,15 @@ Efter denna vecka ska du:
 
 
 ### Läsning
-* [Next.js Dokumentation/Getting Started](https://nextjs.org/docs/app/getting-started) Viktigt att ni läser samtliga sidor under Getting started kommande veckor (RTFM)
 * [GraphQL vs. REST: A Quick Guide](https://www.cosmicjs.com/blog/graphql-vs-rest-a-quick-guide)
 * [GraphQL vs. REST (Postman)](https://blog.postman.com/graphql-vs-rest/)
 * Frivilligt om ni vill lära er mer om GrapQl [GraphQL queries](https://graphql.org/learn/queries/)
+* [Fetching Data](https://nextjs.org/docs/app/getting-started/fetching-data)
+* [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+* [Rendering with search params](https://nextjs.org/docs/app/getting-started/layouts-and-pages#rendering-with-search-params)
+* [Error Handling](https://nextjs.org/docs/app/getting-started/error-handling)
 
 ## 🛠️ Övningar
-
 
 ## 📑 Lektionsrepon
 * **Måndag** (Robert) - **APIer:** Olika APier (Rest, GraphQl) teori + demo med webbgränssnitt och ev lite kod demo (post/get)
