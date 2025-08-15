@@ -9,6 +9,7 @@ Efter denna vecka ska du:
 
 ## 📚 Material
 <img width="678" height="728" alt="image" src="https://github.com/user-attachments/assets/3702ba6d-5661-4c4d-b71b-e6d5e870c1bf" />
+![Rest vs GraphQl](https://assets.bytebytego.com/diagrams/0036-rest-vs-graphql.png)
 
 ### E‑Learning
 * [Next.js 14: Foundations (Pluralsight)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents)
