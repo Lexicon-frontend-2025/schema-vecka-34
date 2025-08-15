@@ -8,6 +8,7 @@ Efter denna vecka ska du:
 1.  Kunna installera och köra igång ett projekt med Next.js
 
 ## 📚 Material
+![qraphql vs rest](https://miro.medium.com/v2/resize:fit:720/format:webp/0*anV8tSqMAK0OkB7c)
 
 ### E‑Learning
 * [Next.js 14: Foundations (Pluralsight)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents)
@@ -23,6 +24,7 @@ Samtliga nedanståend är frivilliga och för er som vill ha förklarat på fler
 
 
 ### Läsning
+* [GraphQL vs. REST: A Quick Guide](https://www.cosmicjs.com/blog/graphql-vs-rest-a-quick-guide)
 * [Next.js Dokumentation/Getting Started](https://nextjs.org/docs/app/getting-started) Viktigt att ni läser samtliga sidor under Getting started kommande veckor (RTFM)
 
 ## 🛠️ Övningar
