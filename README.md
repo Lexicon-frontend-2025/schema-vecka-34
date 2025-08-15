@@ -25,6 +25,7 @@ Efter denna vecka ska du:
 * [Next.js Dokumentation/Getting Started](https://nextjs.org/docs/app/getting-started) Viktigt att ni läser samtliga sidor under Getting started kommande veckor (RTFM)
 * [GraphQL vs. REST: A Quick Guide](https://www.cosmicjs.com/blog/graphql-vs-rest-a-quick-guide)
 * [GraphQL vs. REST (Postman)](https://blog.postman.com/graphql-vs-rest/)
+* Frivilligt om ni vill lära er mer om GrapQl [GraphQL queries](https://graphql.org/learn/queries/)
 
 ## 🛠️ Övningar
 
