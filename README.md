@@ -8,10 +8,11 @@ Efter denna vecka ska du:
 1.  Kunna installera och köra igång ett projekt med Next.js
 
 ## 📚 Material
-![qraphql vs rest](https://miro.medium.com/v2/resize:fit:720/format:webp/0*anV8tSqMAK0OkB7c)
+<img width="678" height="728" alt="image" src="https://github.com/user-attachments/assets/3702ba6d-5661-4c4d-b71b-e6d5e870c1bf" />
 
 ### E‑Learning
 * [Next.js 14: Foundations (Pluralsight)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents)
+
 
 ### YouTube
 Se gärna dessa om Suspense:
