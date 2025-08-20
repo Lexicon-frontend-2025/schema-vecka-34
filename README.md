@@ -9,6 +9,12 @@ Efter denna vecka ska du:
 2.  Använda Fetch API i next.js
 3.  Kunna använda searchParams i next.js
 4.  Kunna implementera grundläggande felhantering i en next.js app
+    * Kunna göra en try/catch på ett api anrop och följande json() som loggar ett fel
+    * Kasta fel från en catch som bubblar upp till en error.tsx fil i din route
+    * Göra en notFound() eller redirect när status inte är ok eller om status är 404
+    * Testa om datan som du hämtat stämmer med vad du förväntar dig genom att testa om t ex data.id finns eller dylikt, samt hantera om den inte stämmer
+    * Göra conditional rendering där du använder && eller ternary för att rendera ut olika tsx beroende på om datan finns eller ej
+
 
 ## 📚 Material
 * [Futurama API](https://futuramaapi.com/)
