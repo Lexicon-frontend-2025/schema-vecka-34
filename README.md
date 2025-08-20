@@ -38,6 +38,11 @@ Efter denna vecka ska du:
 * [Error Handling](https://nextjs.org/docs/app/getting-started/error-handling)
 
 ## 🛠️ Övningar
+Frivilligt! Här är några förslag till längre tutorials som ni kan följa i helhet eller bara i delar för inspiration. Ta gärna en om ni är lite vilsna eller bara vill testa något nytt.
+* [Build A Next.js SaaS From Scratch (ByteGrad)](https://www.youtube.com/watch?v=ERGkwdyjtcM)
+* [Next.js Full Stack SaaS Real Estate App | Complete Guide (Sakura Dev)](https://www.youtube.com/watch?v=DEhgtpMxuOQ&list=PLhnVDNT5zYN9ej5u4ftvLYtebI2xVTTyx)
+* [Build A Course Platform LMS With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres (Web Dev Simplified)](https://www.youtube.com/watch?v=OAyQ3Wyyzfg)
+* [Build a Complete E-Commerce Shop with Next.js 14, Tailwind, React | Full Course 2024 (Josh Tried Coding)](https://www.youtube.com/watch?v=SG82Aqcaaa0)
 
 ## 📑 Lektionsrepon
 * **Måndag** (Robert) - **APIer:** Olika APier (Rest, GraphQl) teori + demo med webbgränssnitt och ev lite kod demo (post/get)
