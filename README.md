@@ -48,5 +48,5 @@ Frivilligt! Här är några förslag till längre tutorials som ni kan följa i 
 * **Måndag** (Robert) - **APIer:** Olika APier (Rest, GraphQl) teori + demo med webbgränssnitt och ev lite kod demo (post/get)
 * **Tisdag** (Robert) - **Repetition:** Måsvingar när, statisk och dynamisk routing (exempel på slugs, demo på intercept routes), props + params, destructuring (nestad), Promise 1
 * **Onsdag** (Robert) - **Repetition:** Async/Promise 2 + felhantering del 1, kombinera och transformera data, planeringen framåt
-* **Torsdag** (Robert) - **searchParams** (i server) och url state management grund (ev fetch med användning av searchparams)
+* **[Torsdag](https://github.com/Robert-Lexicon/nextjs-intro-1b/tree/pagination)** (Robert) - **searchParams** (i server) och url state management grund (ev fetch med användning av searchparams)
 * **[Fredag]()** (Robert) - **Code review** 
